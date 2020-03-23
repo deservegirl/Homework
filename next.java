@@ -18,7 +18,7 @@ public class next {
                 System.out.println(a[i]);
             }
             for (int i = num - 1; i >= 0; i--) {
-                if ( i>(num/2)-1 ){
+                if ( i>(num / 2)-1 ){
                     System.out.println(a[i]);
                 }
             }
