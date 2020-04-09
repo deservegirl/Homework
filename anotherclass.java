@@ -12,7 +12,6 @@ import java.util.Scanner;
 
         }
 
-        /* Возвращает минимум из двух чисел */
         public static int minFunction(int n1, int n2) {
             return n1 & ~(1 << (n2 - 1)) ;
         }
