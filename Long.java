@@ -24,7 +24,7 @@ public class Long {
 
             }
             else
-                System.out.println("Фатальная ошибка , пользователь дурак ");
+                System.out.println("Фатальная ошибка , пользователь дурак .");
         }
     }
 
