@@ -10,7 +10,7 @@ public class Long {
             int bit = s.nextInt();
             if (bit==1){
                 System.out.println(" ax^2 + bx + c = 0 ");
-                System.out.println(" находим x ");
+                System.out.println(" находим x .");
                 System.out.println(" -b+корень d /(2*a)");
 
             }
