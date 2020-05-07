@@ -15,7 +15,7 @@ public class Nrw  {
 
     }
 
-    public static int minFunction(int n) {
+    public static int minFunction(int n, int k) {
         return -~((n-~(n^(n+1))/2)^(n-~(n^(n+1))/2+1))/2  ;
     }
 }
