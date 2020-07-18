@@ -24,7 +24,7 @@ public class two {
 
                 s.add(con.next());
 
-            for(String st : s)
+            for(String st : s )
 
                 System.out.println(st);
 
